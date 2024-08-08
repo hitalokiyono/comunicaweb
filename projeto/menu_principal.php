@@ -30,8 +30,6 @@
 
 
 
-
-            
             <div class="navlogin">
                 <?php 
                 session_start();
