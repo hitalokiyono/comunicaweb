@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box; /* Adicionando uma regra global para garantir que padding e border não aumentem o tamanho do elemento */
+}
+
+.containermain {
+    width: 100%;
+    height: 100%;
+}
+
+#video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.navbar {
+    z-index: 99999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(62, 109, 240, 0.6); /* Ajuste o valor de opacidade (0.0 a 1.0) */
+    padding: 5px 10px;
+}
