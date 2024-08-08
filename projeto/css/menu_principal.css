@@ -97,7 +97,7 @@ img {
 }
 
 .navbar {
-   
+   opacity: ;
     display: flex;
     justify-content: space-between;
     align-items: center;
