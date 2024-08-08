@@ -7,7 +7,7 @@
     <title>comunicaweb</title>
 </head>
 <body>
-<video autoplay muted loop id="meuVideo">
+<video autoplay muted loop id="video">
     <source src="./midia/videos/fundoprincipal.mp4" type="video/mp4">
   </video>
 </body>
