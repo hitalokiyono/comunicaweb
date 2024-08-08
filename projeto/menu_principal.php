@@ -19,7 +19,7 @@
             
          <!-- #region   novo code  -->
          <div class="comunica">
-            <h3>comunic web,</h3>
+            <h3>comunic web.dev</h3>
             </div>
             
 
