@@ -14,6 +14,5 @@
     <source src="./midia/videos/fundoprincipal.mp4" type="video/mp4">
   </video>
   </div>
-
 </body>
 </html>
