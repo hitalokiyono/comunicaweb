@@ -18,10 +18,7 @@
             </div>
             
          <!-- #region   novo code  -->
-         <div class="comunica">
-            <h3>ComunicaWeb.DEV</h3>
-            </div>
-            
+   
             <div class="navlogin">
                 <?php 
                 session_start();
