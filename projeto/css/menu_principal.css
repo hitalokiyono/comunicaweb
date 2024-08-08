@@ -103,7 +103,7 @@ img {
     align-items: center;
     background-color: #3e6df0;
     padding: 5px 10px;
-    opacity: 0.8; /* Altere este valor para ajustar a transparência (0.0 a 1.0) */
+    opacity: 0.2; /* Altere este valor para ajustar a transparência (0.0 a 1.0) */
 }
 
 .navlogin {
