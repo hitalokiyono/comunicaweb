@@ -17,6 +17,21 @@
                 <div class="line" id="c"></div>
             </div>
             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
             <div class="navlogin">
                 <?php 
                 session_start();
