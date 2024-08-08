@@ -19,10 +19,7 @@
             
          <!-- #region   novo code  -->
          <div class="comunica">
-            <div class="menu-icon" onclick="toggleMenu()">
-                <div class="line" id="a"></div>
-                <div class="line" id="b"></div>
-                <div class="line" id="c"></div>
+    
             </div>
             
 
