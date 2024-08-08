@@ -18,14 +18,13 @@
             </div>
             
          <!-- #region   novo code  -->
-           
-
-
-
-
-
-
-
+         <div class="n">
+            <div class="menu-icon" onclick="toggleMenu()">
+                <div class="line" id="a"></div>
+                <div class="line" id="b"></div>
+                <div class="line" id="c"></div>
+            </div>
+            
 
 
 
