@@ -15,14 +15,13 @@
                 <div class="line" id="a"></div>
                 <div class="line" id="b"></div>
                 <div class="line" id="c"></div>
-                <div class="comunica">
-            <h3>ComunicaWeb.DEV</h3>
-            </div>
-            
             </div>
             
          <!-- #region   novo code  -->
-   
+         <div class="comunica">
+            <h3>ComunicaWeb.DEV</h3>
+            </div>
+            
             <div class="navlogin">
                 <?php 
                 session_start();
