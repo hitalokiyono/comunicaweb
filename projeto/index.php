@@ -7,6 +7,7 @@
     <title>comunicaweb</title>
 </head>
 <body>
+    
 <?php require_once ("./menu_principal.php"); ?>
 <div  class="containermain">
   </div>
