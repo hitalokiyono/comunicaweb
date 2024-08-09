@@ -60,7 +60,7 @@
                     
                     echo '<a href=".\visualizarcarta.php" id="option1">';
                     echo '<span style="display: inline-flex; align-items: center;">';
-                    echo '<img src="..\img\cartas.gif" alt="Ícone de Tela Principal" style="width: 25px; height: 25px; margin-right: 5px;">';
+                    echo '<img src="" alt="Ícone de Tela Principal" style="width: 25px; height: 25px; margin-right: 5px;">';
                     echo '<span>CARTAS</span>';
                     echo '</span>';
                     echo '</a>';
