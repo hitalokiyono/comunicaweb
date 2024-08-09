@@ -53,14 +53,14 @@
                 if(isset($_SESSION['username'])) {
                     echo '<a href=".\banners.php" id="option1">';
                     echo '<span style="display: inline-flex; align-items: center;">';
-                    echo '< alt="Ícone de banner" style="width: 25px; height: 25px; margin-right: 5px;">';
+                    echo '<img src="..\img\banner.gif" alt="Ícone de banner" style="width: 25px; height: 25px; margin-right: 5px;">';
                     echo '<span>BANNERS</span>';
                     echo'</span>';
                     echo '</a>';
                     
                     echo '<a href=".\visualizarcarta.php" id="option1">';
                     echo '<span style="display: inline-flex; align-items: center;">';
-                    echo '<img src="" alt="Ícone de Tela Principal" style="width: 25px; height: 25px; margin-right: 5px;">';
+                    echo '<img src="..\img\cartas.gif" alt="Ícone de Tela Principal" style="width: 25px; height: 25px; margin-right: 5px;">';
                     echo '<span>CARTAS</span>';
                     echo '</span>';
                     echo '</a>';
