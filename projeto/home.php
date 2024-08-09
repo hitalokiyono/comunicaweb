@@ -13,7 +13,7 @@
 
     <div class="mural">
     <h1>Mural</h1>
-    <h3>duvidas dos cola</h3>
+    <h3>duvidas dos colaboradores</h3>
         <div class="mensagem">
 
         </div>
