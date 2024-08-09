@@ -51,7 +51,7 @@ color:white;
       
     }
     100% {
-      transform: translateX(0);
+      transform: translateX(1000);
     }
   }
   
