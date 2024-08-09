@@ -109,11 +109,7 @@ function toggleMenu() {
     }
 
 
-    document.getElementById('loginefetForm').addEventListener('submit', function(event) {
-        event.preventDefault(); // Impede o envio padrão do formulário
-        login(); // Chama a função de login
-    });
-
+ 
     function login() {
         var username1 = document.getElementById('username1').value;
         var password1 = document.getElementById('password1').value;
