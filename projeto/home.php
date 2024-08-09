@@ -15,9 +15,9 @@
     <h1>Mural</h1>
     <h3>duvidas dos colaboradores</h3>
         <div class="mensagens">
-         
+            <div>
 
-        
+            </div> 
         </div>
     </div>
 </div>
