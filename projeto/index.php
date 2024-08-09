@@ -9,6 +9,11 @@
 </head>
 <body>
 
+<div  class="containermain">
+<video autoplay muted loop id="video">
+    <source src="./midia/videos/fundoprincipal.mp4" type="video/mp4">
+  </video>
+  </div>
 
 
   <footer>
