@@ -14,7 +14,7 @@ position: fixed;
 .mural{
     position: fixed;
     width: 100%;
-    height: 30%;
+    height: 50%;
     top: 50%;
     background-color: rgb(29, 29, 129);
 }
