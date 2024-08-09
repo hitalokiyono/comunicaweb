@@ -16,11 +16,6 @@
   </div>
 
 
-
-
-
-
-
   <footer>
     <div class="footer-container">
         <div class="footer-section about">
