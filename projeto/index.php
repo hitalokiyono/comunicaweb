@@ -20,7 +20,6 @@
   <title>Registration Form</title>
 
   <div class="container">
-    <h2>Registrar</h2>
     <form>
 
       <div class="form-group">
