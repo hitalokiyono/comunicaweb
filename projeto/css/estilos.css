@@ -1,79 +1,50 @@
-body, html {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    overflow-x: hidden;
-}
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <?php require_once ("./menu_principal.php"); ?>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <title>comunicaweb</title>
+</head>
+<body>
 
-.containermain {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1; /* Garante que o vídeo fique atrás de todo o conteúdo */
-    pointer-events: none; /* Impede que o vídeo capture eventos de mouse, permitindo interação com o conteúdo na frente */
-}
+<div class="video-container">
+    <video autoplay muted loop id="video">
+        <source src="./midia/videos/fundoprincipal.mp4" type="video/mp4">
+    </video>
+</div>
 
-#video {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
+<!-- O conteúdo do site -->
+<footer>
+    <div class="footer-container">
+        <div class="footer-section about">
+            <h2>Sobre Nós</h2>
+            <p>Breve descrição sobre a empresa ou o site.</p>
+        </div>
+        <div class="footer-section links">
+            <h2>Links Rápidos</h2>
+            <ul>
+            </ul>
+        </div>
+        <div class="footer-section contact">
+            <h2>Contato</h2>
+            <ul>
+                <li>Email: exemplo@dominio.com</li>
+                <li>Telefone: (11) 1234-5678</li>
+                <li>Endereço: Rua Exemplo, 123</li>
+            </ul>
+        </div>
+        <div class="footer-section social">
+            <h2>Siga-nos</h2>
+            <div class="social-icons">
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        &copy; 2024 Seu Site | Todos os direitos reservados.
+    </div>
+</footer>
 
-footer {
-    position: relative;
-    z-index: 1; /* Garante que o footer fique na frente do vídeo */
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px 0;
-}
-
-.footer-container {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    padding: 20px;
-}
-
-.footer-section {
-    flex: 1;
-    padding: 10px;
-}
-
-.footer-section h2 {
-    margin-bottom: 15px;
-}
-
-.footer-section ul {
-    list-style: none;
-    padding: 0;
-}
-
-.footer-section ul li {
-    margin-bottom: 10px;
-}
-
-.footer-section ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-.footer-section .social-icons a {
-    display: inline-block;
-    margin-right: 10px;
-}
-
-.footer-section .social-icons a img {
-    width: 24px;
-    height: 24px;
-}
-
-.footer-bottom {
-    background-color: #222;
-    padding: 10px;
-    font-size: 14px;
-    text-align: center;
-    margin-top: 20px;
-}
+</body>
+</html>
