@@ -12,7 +12,7 @@ body{
 
 
 .video-container {
-positio;
+position: relative;
     z-index: -1; 
 
 }
