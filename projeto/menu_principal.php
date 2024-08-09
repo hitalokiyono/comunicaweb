@@ -53,7 +53,7 @@
                 if(isset($_SESSION['username'])) {
                     echo '<a href=".\banners.php" id="option1">';
                     echo '<span style="display: inline-flex; align-items: center;">';
-                    echo '<" alt="Ícone de banner" style="width: 25px; height: 25px; margin-right: 5px;">';
+                    echo '< alt="Ícone de banner" style="width: 25px; height: 25px; margin-right: 5px;">';
                     echo '<span>BANNERS</span>';
                     echo'</span>';
                     echo '</a>';
