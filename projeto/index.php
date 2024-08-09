@@ -24,7 +24,7 @@
         <input type="tel" id="contato" name="contato" placeholder="Digite seu Número de Contato">
       </div>
       <div class="form-group">
-        <label for="setor">Setor Atuante</label>
+        <label for="setor">Setor Atuante:</label>
         <input type="text" id="setor" name="setor" placeholder="Digite seu Setor Atuante">
       </div>
       <button type="submit">Registrar</button>
@@ -36,7 +36,7 @@
  </div>
 
 
- 
+
 <footer>
 <div class = "footer">
 <h3 id="fatec"> FATEC ARAÇATUBA PROJETO  </h3>
