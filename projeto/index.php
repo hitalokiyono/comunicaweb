@@ -20,7 +20,7 @@
         <input type="text" id="cpf" name="cpf" placeholder="Digite seu CPF">
       </div>
       <div class="form-group">
-        <label for="contato">Número de Contato</label>
+        <label for="contato">Número de Contato:</label>
         <input type="tel" id="contato" name="contato" placeholder="Digite seu Número de Contato">
       </div>
       <div class="form-group">
