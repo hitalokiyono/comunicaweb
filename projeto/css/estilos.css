@@ -13,6 +13,7 @@ body{
 
 
 .video-container {
+    display: block;
 position: fixed;
     z-index: -1; 
 
