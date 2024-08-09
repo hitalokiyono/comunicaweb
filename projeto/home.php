@@ -12,7 +12,7 @@
  <h2>SELECIONE A OPÇÃO</h2>
 
     <div class="mural">
-    <h1>mural</h1>
+    <h1>Mural</h1>
         <div class="mensagem">
 
         </div>
