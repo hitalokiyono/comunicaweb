@@ -9,9 +9,13 @@
 </head>
 <body>
 
+<div class="containermain">
+    <video autoplay muted loop id="video">
+        <source src="./midia/videos/fundoprincipal.mp4" type="video/mp4">
+    </video>
+</div>
 
-
-  <footer>
+<footer>
     <div class="footer-container">
         <div class="footer-section about">
             <h2>Sobre Nós</h2>
@@ -20,7 +24,6 @@
         <div class="footer-section links">
             <h2>Links Rápidos</h2>
             <ul>
-  
             </ul>
         </div>
         <div class="footer-section contact">
@@ -42,10 +45,5 @@
     </div>
 </footer>
 
-<div  class="containermain">
-<video autoplay muted loop id="video">
-    <source src="./midia/videos/fundoprincipal.mp4" type="video/mp4">
-  </video>
-  </div>
 </body>
 </html>
