@@ -10,6 +10,6 @@
 <body>
 <div class = "main">
  
- </div>
+</div>
 </body>
 </html>
