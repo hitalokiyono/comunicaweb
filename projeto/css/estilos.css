@@ -9,13 +9,13 @@ body{
     display: flex;
     width: 100%;
     height: 100%;
-    background-color: black;
+
     z-index: 90;
 }
 
 
 .video-container {
-    
+z-index: -9;
     width: 100%;
     height: 100%;
 }
