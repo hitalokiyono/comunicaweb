@@ -59,7 +59,7 @@ img {
 }
 
 .sidenav {
-    border: 3px outset #2c2c2c;
+    border: 1px outset #2c2c2c;
     height: 100%;
     width: 0;
     position: fixed;
