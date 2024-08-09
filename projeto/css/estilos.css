@@ -40,3 +40,12 @@ color:white;
 }
 
 
+@keyframes web {
+    0% {
+        color : rgb(255, 255, 255)
+    }
+    100% {
+        color : rgb(1, 1, 95)
+    }
+
+}
