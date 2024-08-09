@@ -39,9 +39,6 @@
         <div class="footer-section social">
             <h2>Siga-nos</h2>
             <div class="social-icons">
-                <a href="#"><img src="facebook-icon.png" alt="Facebook"></a>
-                <a href="#"><img src="twitter-icon.png" alt="Twitter"></a>
-                <a href="#"><img src="instagram-icon.png" alt="Instagram"></a>
             </div>
         </div>
     </div>
