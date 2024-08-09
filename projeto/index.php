@@ -12,7 +12,7 @@
 <div class = "main">
 
  <div class="login"  onclick="login">
-    <h3> REGISTRAR-s</h3>
+    <h3> REGISTRAR-SE</h3>
 
  </div>
 
