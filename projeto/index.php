@@ -16,7 +16,6 @@
 
  </div>
 
-
 <footer>
 <div class = "footer">
 <h3 id="fatec"> FATEC ARAÇATUBA PROJETO  </h3>
