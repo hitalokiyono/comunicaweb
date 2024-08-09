@@ -35,7 +35,7 @@
                     echo "</div>";
                 } else {
               /*      echo '<button class="login-button" onclick="cancelarentrada()">Entrar</button>';
-                    echo '<button class="signup-button" onclick="cancelarCadastro()">Cadastrar</button>';
+                    echo '<button class="signup-button" onclick="cancelarCadastro()">Cadastrar</button>';*/
                 }
                 ?>
             </div>
