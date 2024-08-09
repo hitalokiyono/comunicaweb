@@ -16,7 +16,7 @@
   <div class="container">
     <form>
       <div class="form-group">
-        <label for="cpf">CPF</label>
+        <label for="cpf">CPF:</label>
         <input type="text" id="cpf" name="cpf" placeholder="Digite seu CPF">
       </div>
       <div class="form-group">
