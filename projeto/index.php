@@ -13,14 +13,8 @@
 
  <div class="login"  onclick="login">
     <h3> REGISTRAR-SE</h3>
-
-    <!DOCTYPE html>
-<html>
-<head>
-  <title>Registration Form</title>
   <div class="container">
     <form>
-
       <div class="form-group">
         <label for="cpf">CPF</label>
         <input type="text" id="cpf" name="cpf" placeholder="Digite seu CPF">
