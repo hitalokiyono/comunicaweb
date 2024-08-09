@@ -46,25 +46,6 @@ function toggleMenu() {
     
     }    
 }
-function cancelarCadastro() {
-    var video = document.querySelector("#meuVideo");
-    var loginDiv1 = document.getElementById("loginefetForm");
-    var loginDiv = document.getElementById("loginForm");
-        loginDiv.style.display = "block";
-        loginDiv1.style.display = "none";
-        mainindex.style.display = "none";
-        video.style.display = "flex";
-}
-function cancelarentrada() {
-    var video = document.querySelector("#meuVideo");
-    var loginDiv1 = document.getElementById("loginefetForm");
-    var loginDiv = document.getElementById("loginForm");
-        loginDiv.style.display = "none";
-        loginDiv1.style.display = "flex";
-        mainindex.style.display = "none";
-        video.style.display = "flex";
-    
-}
 
     document.getElementById('userInfoForm').addEventListener('submit', function(event) {
         event.preventDefault();
