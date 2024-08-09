@@ -13,7 +13,7 @@
 
     <div class="mural">
     <h1>Mural</h1>
-    h3
+    <h3></h3>
         <div class="mensagem">
 
         </div>
