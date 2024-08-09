@@ -43,7 +43,7 @@
         <div class="sidenav" id="mySidenav" onclick="toggleMenu()">
             <div class="links">
                 <a href=".\index.php" id="option1">
-                    <span style="display: inline-flex; align-items: center;">
+                    <span style="display: inline-flex; align-items: center;       opacity: 0.5;">
                         <img src="./midia/imagem/botao-home.png" alt="Ícone de Tela Principal" style="width: 25px; height: 25px; margin-right: 5px;">
                         <span>HOME</span>
                     </span>
