@@ -37,7 +37,7 @@ background-color: rgb(119, 119, 253);
 top: 95%;
 position: absolute;
 color:white;
-opacity: ;
+opacity: 0.8;
 }
 #fatec{
     animation: footer 15s infinite;
