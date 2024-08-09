@@ -16,12 +16,6 @@
 
 
 /* Garante que o body ocupe toda a altura da tela */
-html, body {
-    height: 100%;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-}
 
 /* O conteúdo principal do site deve expandir para ocupar o espaço disponível */
 body > *:not(footer) {
