@@ -11,7 +11,8 @@
 <div class = "main">
  <h2>SELECIONE A OPÇÃO</h2>
 
-<div>
+<div  class="
+">
 
 
 </div>
