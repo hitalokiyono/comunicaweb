@@ -33,7 +33,7 @@
 
 
 <footer>
-<div class = "">
+<div class = "footer">
 
 
 </div>
