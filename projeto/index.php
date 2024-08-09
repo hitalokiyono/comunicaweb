@@ -21,6 +21,42 @@
 
 
 
-  
+  <footer>
+    <div class="footer-container">
+        <div class="footer-section about">
+            <h2>Sobre Nós</h2>
+            <p>Breve descrição sobre a empresa ou o site.</p>
+        </div>
+        <div class="footer-section links">
+            <h2>Links Rápidos</h2>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </div>
+        <div class="footer-section contact">
+            <h2>Contato</h2>
+            <ul>
+                <li>Email: exemplo@dominio.com</li>
+                <li>Telefone: (11) 1234-5678</li>
+                <li>Endereço: Rua Exemplo, 123</li>
+            </ul>
+        </div>
+        <div class="footer-section social">
+            <h2>Siga-nos</h2>
+            <div class="social-icons">
+                <a href="#"><img src="facebook-icon.png" alt="Facebook"></a>
+                <a href="#"><img src="twitter-icon.png" alt="Twitter"></a>
+                <a href="#"><img src="instagram-icon.png" alt="Instagram"></a>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        &copy; 2024 Seu Site | Todos os direitos reservados.
+    </div>
+</footer>
+
 </body>
 </html>
