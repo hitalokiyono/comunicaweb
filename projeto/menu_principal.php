@@ -45,7 +45,7 @@
             <div class="links">
                 <a href=".\index.php" id="option1">
                     <span style="display: inline-flex; align-items: center;">
-                     
+                        <img src="..\img\home.gif" alt="Ícone de Tela Principal" style="width: 25px; height: 25px; margin-right: 5px;">
                         <span>HOME</span>
                     </span>
                 </a>
