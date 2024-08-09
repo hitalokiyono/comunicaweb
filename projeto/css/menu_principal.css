@@ -225,3 +225,16 @@ img {
     margin-left: 1%;
     color: #fff;
 }
+
+
+
+@keyframes interativo {
+    0% {
+        width: 30px;
+    }
+    50% {
+        width: 40px;
+    }
+    100% {
+        width: 50px;
+    }
