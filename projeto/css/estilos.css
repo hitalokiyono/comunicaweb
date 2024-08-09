@@ -9,7 +9,7 @@
 }
 
 #video {
-    z
+    z-index: ;
     position: absolute;
     width: 100%;
     height: 100%;
