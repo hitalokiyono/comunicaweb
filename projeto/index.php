@@ -15,9 +15,6 @@
         <source src="./midia/videos/fundoprincipal.mp4" type="video/mp4">
     </video>
 
-
-<h3> pao</h3>
-
 </div>
 </div>
 </body>
