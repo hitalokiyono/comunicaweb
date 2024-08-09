@@ -20,7 +20,7 @@
             <h3>Comunica<h3>
              <h3>Web.DEV</h3>
             </div>
-            <div class="comunic2a">
+            <div class="web">
             <h3>Comunica<h3>
              <h3>Web.DEV</h3>
             </div>
