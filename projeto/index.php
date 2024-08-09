@@ -34,7 +34,7 @@
 
 <footer>
 <div class = "footer">
-<h3> feito </h3>
+<h3> FATEC </h3>
 </div>
 </footer>
 <div class="video-container">
