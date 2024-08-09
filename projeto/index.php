@@ -34,8 +34,7 @@
 
 <footer>
 <div class = "footer">
-
-
+<h3></h3>
 </div>
 </footer>
 <div class="video-container">
