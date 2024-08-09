@@ -1,6 +1,4 @@
-* {
-    box-sizing: border-box; /* Adicionando uma regra global para garantir que padding e border não aumentem o tamanho do elemento */
-}
+
 
 .containermain {
     z-index: -1;
