@@ -216,7 +216,7 @@ img {
 .comunica {
     margin-left: 1%;
     color: #fff;
-    margin-left:38%;
+    margin-left:38;
     position: absolute;
     animation: comunica 5s infinite;
     font-size: 100%;
