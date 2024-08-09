@@ -237,9 +237,16 @@ img {
     25% {
         color : rgb(255, 255, 255)
     }
+    50% {
+        color : rgb(255, 255, 255)
+    }
+    100% {
+        color : rgb(1, 1, 95)
+    }
+
+}
 
 
-    
 }
 @keyframes web {
     0% {
