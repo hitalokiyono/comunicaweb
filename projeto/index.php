@@ -33,8 +33,10 @@
 
 
 <footer>
+<div>
 
 
+</div>
 </footer>
 <div class="video-container">
     <video autoplay muted loop id="video">
