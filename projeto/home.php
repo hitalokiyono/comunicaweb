@@ -14,7 +14,7 @@
 <div  class="mural">
     <div>
 
-</div>
+    </div>
 </div>
 </div>
 
