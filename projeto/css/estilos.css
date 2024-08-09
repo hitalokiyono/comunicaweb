@@ -22,7 +22,7 @@
 /* Estilo do footer */
 footer {
 
-    z
+    z-index: 10;
     background-color: #333;
     color: #fff;
     text-align: center;
