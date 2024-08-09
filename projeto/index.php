@@ -91,8 +91,6 @@
       text-decoration: underline;
     }
   </style>
-</head>
-<body>
   <div class="container">
     <h2>Registrar</h2>
     <form>
