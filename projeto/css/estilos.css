@@ -17,9 +17,7 @@
 }
 
 
-body > *:not(footer) {
-    flex: 1;
-}
+
 
 /* Estilo do footer */
 footer {
