@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class = "main">
- <h2>SELECIONE A OPC</h2>
+ <h2>SELECIONE A OPÇÃO</h2>
 </div>
 
 </body>
