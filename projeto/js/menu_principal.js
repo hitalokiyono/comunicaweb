@@ -47,27 +47,7 @@ function toggleMenu() {
     }    
 }
 
-    document.getElementById('userInfoForm').addEventListener('submit', function(event) {
-        event.preventDefault();
-        showPasswordFields();
-    });
-    
-    function showPasswordFields() {
-        var username = document.getElementById('username').value;
-    
-        axios.post('./verificarnome.php', { username: username })
-            .then(function(response) {
-                if (response.data.exists) {
-                    alert("Usuário já cadastrado. Por favor, escolha outros dados.");
-                } else {
-                    showPasswordFieldsHTML(username);
-                }
-            })
-            .catch(function(error) {
-                console.error('Erro:', error);
-            });
-    }
-
+   
 
 
     function showPasswordFieldsHTML(username) {
