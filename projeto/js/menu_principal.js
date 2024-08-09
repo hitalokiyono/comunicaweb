@@ -189,24 +189,6 @@ function toggleMenu() {
     }
     
 
-    $(document).ready(function() {
-        // Function to move the carousel
-        function moveCarousel() {
-            var $firstItem = $('.banner-item:first');
-            var $nextItem = $firstItem.next('.banner-item');
-            
-            // Torna o próximo item visível
-            $nextItem.css('display', 'block');
-            
-            $firstItem.animate({marginLeft: "-100%"}, 0, function() {
-                $firstItem.appendTo('#carousel').css('margin-left', 0);
-            });
-            
-            // Esconde os itens que não estão sendo chamados
-            $('.banner-item:not(:first)').css('display', 'none');
-        }
-        setInterval(moveCarousel, 10000); // 30 segundos em milissegundos
-    });
     
 
     document.getElementById("butaobanner").onclick = function() {
