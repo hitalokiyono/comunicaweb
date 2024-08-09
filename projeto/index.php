@@ -18,7 +18,6 @@
 <html>
 <head>
   <title>Registration Form</title>
-
   <div class="container">
     <form>
 
