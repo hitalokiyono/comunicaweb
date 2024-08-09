@@ -11,11 +11,11 @@
 <div class = "main">
  <h2>SELECIONE A OPÇÃO</h2>
 
-<div  class="mural">
-    <div>
+<div class="mural">
+        <div>
 
+        </div>
     </div>
-</div>
 </div>
 
 </body>
