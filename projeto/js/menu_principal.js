@@ -191,12 +191,7 @@ function toggleMenu() {
 
     
 
-    document.getElementById("butaobanner").onclick = function() {
-        // Redireciona para a página desejada
-        window.location.href = "./banners.php";
-    };
-
-
+ 
     
     document.getElementById("meuBotao").addEventListener("click", function() {
         window.location.href = "./banners.php";
