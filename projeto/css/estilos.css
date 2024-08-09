@@ -45,7 +45,7 @@ color:white;
 
 }
 
-@keyframes test {
+@keyframes footer {
     0% {
       transform: translateX(-100%);
       
