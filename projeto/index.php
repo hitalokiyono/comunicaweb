@@ -94,10 +94,7 @@
   <div class="container">
     <h2>Registrar</h2>
     <form>
-      <div class="form-group">
-        <label for="registro-acesso">Registro de Acesso</label>
-        <input type="text" id="registro-acesso" name="registro-acesso" placeholder="Digite seu Registro de Acesso">
-      </div>
+
       <div class="form-group">
         <label for="cpf">CPF</label>
         <input type="text" id="cpf" name="cpf" placeholder="Digite seu CPF">
