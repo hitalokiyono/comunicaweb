@@ -3,7 +3,7 @@ body, html {
     padding: 0;
     height: 100%;
     overflow-x: hidden;
-    position: relative; /* Certifica-se de que os elementos dentro de body possam ser posicionados corretamente */
+    position: relative; 
 }
 
 .video-container {
