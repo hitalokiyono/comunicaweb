@@ -13,7 +13,6 @@
 
 <div  class="mural">
 
-
 </div>
 </div>
 
