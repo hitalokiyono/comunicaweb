@@ -9,12 +9,13 @@
 </head>
 <body>
 
-<div class="containermain">
+<div class="video-container">
     <video autoplay muted loop id="video">
         <source src="./midia/videos/fundoprincipal.mp4" type="video/mp4">
     </video>
 </div>
 
+<!-- O conteúdo do site -->
 <footer>
     <div class="footer-container">
         <div class="footer-section about">
