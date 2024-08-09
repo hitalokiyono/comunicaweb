@@ -25,10 +25,7 @@
         <div class="footer-section links">
             <h2>Links Rápidos</h2>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Sobre</a></li>
-                <li><a href="#">Serviços</a></li>
-                <li><a href="#">Contato</a></li>
+  
             </ul>
         </div>
         <div class="footer-section contact">
