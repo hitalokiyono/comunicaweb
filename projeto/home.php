@@ -14,8 +14,10 @@
     <div class="mural">
     <h1>Mural</h1>
     <h3>duvidas dos colaboradores</h3>
-        <div class="mensagem">
+        <div class="mensagens">
          
+
+        
         </div>
     </div>
 </div>
