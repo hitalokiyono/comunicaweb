@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class = "main">
- <h2></h2>
+ <h2>SELEC</h2>
 </div>
 
 </body>
