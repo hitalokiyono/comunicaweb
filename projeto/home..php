@@ -41,11 +41,6 @@
 <h3 id="fatec"> FATEC ARAÇATUBA PROJETO  </h3>
 </div>
 </footer>
-<div class="video-container">
-    <video autoplay muted loop id="video">
-        <source src="./midia/videos/fundoprincipal.mp4" type="video/mp4">
-    </video>
-</div>
-</div>
+
 </body>
 </html>
